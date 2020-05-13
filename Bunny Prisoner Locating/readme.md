@@ -1,4 +1,4 @@
-Bunny-Prisoner-Locating - LEVELC 2
+Bunny-Prisoner-Locating - LEVEL 2
 =========
 
 Keeping track of Commander Lambda's many bunny prisoners is starting to get tricky. You've been tasked with writing a program to match bunny prisoner IDs to cell locations.
