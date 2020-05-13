@@ -5,4 +5,4 @@ Google Foobar called foo.bar, is Google's secret recruiting process embedded wit
 
 The system has been used by Google for at least a year and is triggered when a user enters certain search terms relating to coding languages like Python and Java. The search results page breaks open to reveal the message "You're speaking our language. Up for a challenge?" to which the user can decline once, request the message isn't shown again, or click "I want to play".
 
-![Foobar Triggered](https://github.com/sark-2110/Foobar-Google/blob/master/images/foobar-triggered.png "Foobar Triggered")
+![Foobar Triggered](https://github.com/sark-2110/Foobar-Google/blob/master/images/Foobar-triggered.png "Foobar Triggered")
