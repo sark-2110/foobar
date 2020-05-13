@@ -22,7 +22,7 @@ by the function.  The same n non-unique integers will be present on both lists, 
 different order, like in the examples above. Commander Lambda likes to keep her numbers short, so every 
 prisoner ID will be between -1000 and 1000.
 
-###Test cases
+Test cases
 ==========
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
