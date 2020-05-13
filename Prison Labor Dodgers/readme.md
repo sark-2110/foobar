@@ -24,16 +24,18 @@ prisoner ID will be between -1000 and 1000.
 
 Test cases
 ==========
-Your code should pass the following test cases.
+Your code should pass the following test cases.<br />
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
+``` Python3
 Input:
 solution.solution([13, 5, 6, 2, 5], [5, 2, 5, 13])
-Output:
+<br />
+Output:<br />
     6
-
+<br />
 Input:
 solution.solution([14, 27, 1, 4, 2, 50, 3, 1], [2, 4, -4, 3, 1, 1, 14, 27, 50])
-Output:
+Output:<br />
     -4
+ ```
