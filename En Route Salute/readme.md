@@ -11,7 +11,7 @@ bit, er, involved). You think that by removing the salute requirement, you could
 
 Write a program that counts how many salutes are exchanged during a typical walk along a hallway. The hall is represented by a string. 
 
-#For example:
+For example:
 "--->-><-><-->-"
 
 Each hallway string will contain three different types of characters: '>', an employee walking to the right; '<', an employee walking 
