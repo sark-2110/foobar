@@ -1,4 +1,4 @@
-Prison Labor Dodgers
+Prison Labor Dodgers -LEVEL 1
 ====================
 
 Commander Lambda is all about efficiency, including using her bunny prisoners for manual labor.
