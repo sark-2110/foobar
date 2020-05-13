@@ -1,4 +1,4 @@
-Fuel Injection Perfection
+Fuel Injection Perfection - LEVEL 3
 =========================
 
 Commander Lambda has asked for your help to refine the automatic quantum antimatter fuel injection system for her LAMBCHOP doomsday device. It's a great chance for you to get a closer look at the LAMBCHOP - and maybe sneak in a bit of sabotage while you're at it - so you took the job gladly. 
