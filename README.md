@@ -30,4 +30,15 @@ There are 5 Levels:
 * [Dodge the Lasers](https://github.com/sark-2110/Foobar-Google/tree/master/Dodge%20the%20Lasers)
 
 ### After Completing 5 levels:
-![Foobar Triggered](https://github.com/sark-2110/Foobar-Google/blob/master/images/foobar-triggered.png "Foobar Triggered")
+![Foobar Triggered](https://github.com/sark-2110/Foobar-Google/blob/master/images/Completing%205%20levels.png "5th level Completed")
+
+### You also get a encrypted message in tag:
+```
+<encrypted>
+your message
+</encrypted>
+```
+
+For your eyes only!<br/>
+
+which can be decoded by using: [Decryption](https://github.com/sark-2110/Foobar-Google/tree/master/Decryption)
