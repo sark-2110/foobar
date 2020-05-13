@@ -30,12 +30,12 @@ Note that it may also be run against hidden test cases not shown here.
 ``` Python3
 Input:
 solution.solution([13, 5, 6, 2, 5], [5, 2, 5, 13])
-<br />
-Output:<br />
+
+Output:
     6
 <br />
 Input:
 solution.solution([14, 27, 1, 4, 2, 50, 3, 1], [2, 4, -4, 3, 1, 1, 14, 27, 50])
-Output:<br />
+Output:
     -4
  ```
