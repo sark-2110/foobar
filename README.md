@@ -8,7 +8,7 @@ The system has been used by Google for at least a year and is triggered when a u
 
 ![Foobar Triggered](https://github.com/sark-2110/Foobar-Google/blob/master/images/foobar-triggered.png "Foobar Triggered")
 
-There are 5 Levels:
+### There are 5 Levels:
 
 ### Level 1:
 * [Prison Labor Dodgers](https://github.com/sark-2110/Foobar-Google/tree/master/Prison%20Labor%20Dodgers)
@@ -45,3 +45,12 @@ There are 5 Levels:
 For your eyes only!<br/>
 
 which can be decoded by using: [Decryption](https://github.com/sark-2110/Foobar-Google/tree/master/Decryption)
+
+### Language:
+Python 3.7.2
+
+### Contributing:
+Contributions will be warmly welcomed. Make a pull request. Have more optimized code make a Pull Request.
+
+### license:
+MIT License.
