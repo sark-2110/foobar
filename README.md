@@ -37,9 +37,9 @@ There are 5 Levels:
 
 ### You also get a encrypted message in tag:
 ```
-<encrypted>
-your message
-</encrypted>
+  <encrypted>
+      your message
+  </encrypted>
 ```
 
 For your eyes only!<br/>
